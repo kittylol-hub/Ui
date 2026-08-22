@@ -537,7 +537,7 @@ function Library:init(__title : string?) : Library
 	__resize_button.Size = UDim2.new(0, 20, 0, 20)
 	__resize_button.Position = UDim2.new(1, -25, 1, -25)
 	__resize_button.BackgroundTransparency = 1
-	__resize_button.Image = 'rbxassetid://72949603093553'
+	__resize_button.Image = 'rbxassetid://110014698158231'
 	__resize_button.ImageColor3 = Color3.fromRGB(120, 120, 120)
 	__resize_button.ZIndex = 10
 	__resize_button.Parent = __main
